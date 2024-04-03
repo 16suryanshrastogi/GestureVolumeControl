@@ -2,13 +2,6 @@ Introduction
 
 The gesture volume control project develops a system that allows users to adjust device volume using hand gestures. It employs computer vision and machine learning to recognize and interpret gestures, enabling intuitive control without physical buttons.
 
-image
-
-Using the model
-
-Use the repository to run the program :
-
-https://github.com/Shwetank-Chaudhary/GestureVolumeControl/blob/main/GestureVolumeControl.py
 
 "HandTrackingModule.py" module have python code for tracking Hand movements.
 
